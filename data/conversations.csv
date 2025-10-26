@@ -1,0 +1,301 @@
+user_id,campaign_id,message,timestamp,message_id
+user_041,campaign_02,Loved the latest offers!,2025-10-09T22:18:43Z,msg_00001
+user_016,campaign_04,Looking for eco-friendly products,2025-10-01T13:17:42Z,msg_00002
+user_044,campaign_02,Remind me about expiring coupons,2025-09-28T02:54:33Z,msg_00003
+user_002,campaign_02,Flash sale emails are great,2025-10-07T20:56:57Z,msg_00004
+user_033,campaign_01,Flash sale emails are great,2025-10-23T00:46:57Z,msg_00005
+user_027,campaign_04,Personalize tech recommendations,2025-10-25T04:25:26Z,msg_00006
+user_018,campaign_01,Looking for eco-friendly products,2025-10-17T02:15:40Z,msg_00007
+user_022,campaign_05,Looking for eco-friendly products,2025-10-07T00:44:18Z,msg_00008
+user_049,campaign_06,Interested in travel deals,2025-10-01T01:56:11Z,msg_00009
+user_025,campaign_02,New arrivals caught my eye,2025-10-13T06:37:01Z,msg_00010
+user_039,campaign_05,Loved the latest offers!,2025-10-18T21:08:54Z,msg_00011
+user_035,campaign_02,Remind me about expiring coupons,2025-09-30T09:41:18Z,msg_00012
+user_036,campaign_05,New arrivals caught my eye,2025-10-24T14:32:37Z,msg_00013
+user_013,campaign_02,Loved the latest offers!,2025-10-07T15:24:01Z,msg_00014
+user_050,campaign_05,Interested in travel deals,2025-10-07T21:06:02Z,msg_00015
+user_007,campaign_07,Interested in loyalty rewards,2025-10-18T14:08:27Z,msg_00016
+user_041,campaign_06,Looking for eco-friendly products,2025-10-14T13:10:18Z,msg_00017
+user_023,campaign_04,Interested in loyalty rewards,2025-09-30T01:04:10Z,msg_00018
+user_039,campaign_03,Flash sale emails are great,2025-10-04T12:15:26Z,msg_00019
+user_030,campaign_07,Interested in loyalty rewards,2025-10-23T14:46:23Z,msg_00020
+user_015,campaign_06,Loved the latest offers!,2025-10-07T16:44:24Z,msg_00021
+user_003,campaign_06,Remind me about expiring coupons,2025-10-09T13:49:13Z,msg_00022
+user_005,campaign_04,New arrivals caught my eye,2025-10-06T21:36:27Z,msg_00023
+user_042,campaign_08,Remind me about expiring coupons,2025-10-18T20:28:51Z,msg_00024
+user_010,campaign_05,Looking for eco-friendly products,2025-10-08T13:13:17Z,msg_00025
+user_048,campaign_05,Remind me about expiring coupons,2025-10-24T21:44:41Z,msg_00026
+user_026,campaign_06,Flash sale emails are great,2025-10-03T07:02:52Z,msg_00027
+user_033,campaign_08,Interested in travel deals,2025-09-28T20:46:27Z,msg_00028
+user_008,campaign_03,Looking for eco-friendly products,2025-10-17T01:43:54Z,msg_00029
+user_039,campaign_02,Remind me about expiring coupons,2025-10-15T02:29:54Z,msg_00030
+user_039,campaign_08,Interested in loyalty rewards,2025-10-23T10:26:04Z,msg_00031
+user_001,campaign_02,Interested in loyalty rewards,2025-10-13T02:12:46Z,msg_00032
+user_008,campaign_05,Remind me about expiring coupons,2025-10-04T06:08:48Z,msg_00033
+user_030,campaign_01,Interested in loyalty rewards,2025-10-20T21:06:17Z,msg_00034
+user_049,campaign_03,Interested in travel deals,2025-10-11T01:35:35Z,msg_00035
+user_041,campaign_04,Looking for eco-friendly products,2025-10-14T17:31:15Z,msg_00036
+user_049,campaign_03,Loved the latest offers!,2025-10-25T15:42:02Z,msg_00037
+user_021,campaign_08,Loved the latest offers!,2025-10-02T00:12:54Z,msg_00038
+user_024,campaign_05,Flash sale emails are great,2025-09-29T09:22:02Z,msg_00039
+user_016,campaign_02,Interested in travel deals,2025-10-20T04:05:58Z,msg_00040
+user_005,campaign_03,Looking for eco-friendly products,2025-10-19T15:37:25Z,msg_00041
+user_036,campaign_03,Interested in loyalty rewards,2025-10-22T04:39:51Z,msg_00042
+user_039,campaign_07,Flash sale emails are great,2025-10-22T18:12:18Z,msg_00043
+user_049,campaign_04,Interested in loyalty rewards,2025-10-15T22:44:21Z,msg_00044
+user_043,campaign_06,Personalize tech recommendations,2025-10-21T16:53:57Z,msg_00045
+user_029,campaign_02,Flash sale emails are great,2025-10-07T11:40:15Z,msg_00046
+user_005,campaign_06,Loved the latest offers!,2025-10-25T03:18:32Z,msg_00047
+user_036,campaign_04,Flash sale emails are great,2025-09-26T22:15:27Z,msg_00048
+user_005,campaign_01,Flash sale emails are great,2025-09-29T20:24:24Z,msg_00049
+user_003,campaign_06,Interested in travel deals,2025-10-21T12:54:54Z,msg_00050
+user_016,campaign_05,Personalize tech recommendations,2025-10-06T23:29:01Z,msg_00051
+user_035,campaign_03,Personalize tech recommendations,2025-10-08T08:59:31Z,msg_00052
+user_031,campaign_07,Flash sale emails are great,2025-10-01T03:46:38Z,msg_00053
+user_007,campaign_07,New arrivals caught my eye,2025-10-17T03:23:04Z,msg_00054
+user_027,campaign_08,Loved the latest offers!,2025-10-01T08:32:41Z,msg_00055
+user_004,campaign_07,New arrivals caught my eye,2025-10-01T21:11:14Z,msg_00056
+user_016,campaign_04,Flash sale emails are great,2025-10-22T14:41:52Z,msg_00057
+user_029,campaign_03,Remind me about expiring coupons,2025-10-05T11:39:31Z,msg_00058
+user_018,campaign_08,Flash sale emails are great,2025-09-30T05:42:34Z,msg_00059
+user_029,campaign_02,Loved the latest offers!,2025-10-22T19:42:37Z,msg_00060
+user_001,campaign_02,Flash sale emails are great,2025-10-04T15:38:46Z,msg_00061
+user_027,campaign_08,Personalize tech recommendations,2025-10-06T22:54:48Z,msg_00062
+user_026,campaign_01,Looking for eco-friendly products,2025-10-14T23:24:55Z,msg_00063
+user_001,campaign_07,Interested in loyalty rewards,2025-10-18T16:00:10Z,msg_00064
+user_019,campaign_07,Personalize tech recommendations,2025-10-04T02:13:51Z,msg_00065
+user_013,campaign_05,Flash sale emails are great,2025-09-29T10:01:03Z,msg_00066
+user_038,campaign_01,New arrivals caught my eye,2025-09-29T08:28:55Z,msg_00067
+user_004,campaign_08,Looking for eco-friendly products,2025-09-29T08:08:57Z,msg_00068
+user_033,campaign_02,Looking for eco-friendly products,2025-09-29T21:42:46Z,msg_00069
+user_039,campaign_02,Flash sale emails are great,2025-10-16T04:18:44Z,msg_00070
+user_008,campaign_04,Loved the latest offers!,2025-09-30T13:23:50Z,msg_00071
+user_027,campaign_06,Interested in loyalty rewards,2025-10-06T11:51:32Z,msg_00072
+user_043,campaign_06,Flash sale emails are great,2025-10-09T11:20:35Z,msg_00073
+user_026,campaign_03,Interested in loyalty rewards,2025-10-18T18:35:05Z,msg_00074
+user_021,campaign_02,Loved the latest offers!,2025-10-18T19:49:15Z,msg_00075
+user_040,campaign_02,Interested in travel deals,2025-10-22T16:16:09Z,msg_00076
+user_014,campaign_05,Looking for eco-friendly products,2025-10-13T12:30:16Z,msg_00077
+user_005,campaign_04,New arrivals caught my eye,2025-10-10T09:54:50Z,msg_00078
+user_011,campaign_08,Interested in loyalty rewards,2025-10-26T06:32:09Z,msg_00079
+user_042,campaign_01,Interested in loyalty rewards,2025-10-01T14:34:00Z,msg_00080
+user_009,campaign_05,Interested in travel deals,2025-10-01T18:35:08Z,msg_00081
+user_048,campaign_03,Interested in loyalty rewards,2025-10-10T06:08:58Z,msg_00082
+user_039,campaign_04,New arrivals caught my eye,2025-10-06T11:05:16Z,msg_00083
+user_044,campaign_05,Personalize tech recommendations,2025-10-08T18:27:25Z,msg_00084
+user_004,campaign_02,Remind me about expiring coupons,2025-10-10T00:14:07Z,msg_00085
+user_003,campaign_01,New arrivals caught my eye,2025-10-02T22:17:44Z,msg_00086
+user_041,campaign_05,Looking for eco-friendly products,2025-10-18T00:39:19Z,msg_00087
+user_036,campaign_07,Loved the latest offers!,2025-10-02T00:13:20Z,msg_00088
+user_005,campaign_03,Loved the latest offers!,2025-10-14T12:02:51Z,msg_00089
+user_038,campaign_03,Remind me about expiring coupons,2025-10-02T18:21:52Z,msg_00090
+user_003,campaign_05,New arrivals caught my eye,2025-09-28T12:21:38Z,msg_00091
+user_023,campaign_04,Flash sale emails are great,2025-10-01T13:38:34Z,msg_00092
+user_023,campaign_07,Looking for eco-friendly products,2025-10-08T01:41:55Z,msg_00093
+user_011,campaign_03,Remind me about expiring coupons,2025-09-27T18:45:28Z,msg_00094
+user_012,campaign_06,Remind me about expiring coupons,2025-10-08T15:00:55Z,msg_00095
+user_018,campaign_03,Interested in travel deals,2025-10-15T03:34:23Z,msg_00096
+user_003,campaign_08,Flash sale emails are great,2025-10-06T06:23:56Z,msg_00097
+user_030,campaign_06,Interested in loyalty rewards,2025-10-07T15:02:51Z,msg_00098
+user_015,campaign_01,Flash sale emails are great,2025-10-15T22:07:34Z,msg_00099
+user_022,campaign_05,Interested in travel deals,2025-10-10T03:05:02Z,msg_00100
+user_023,campaign_07,New arrivals caught my eye,2025-09-27T22:02:12Z,msg_00101
+user_008,campaign_05,Looking for eco-friendly products,2025-10-24T18:18:56Z,msg_00102
+user_017,campaign_01,Interested in travel deals,2025-10-25T12:56:08Z,msg_00103
+user_028,campaign_06,New arrivals caught my eye,2025-10-17T18:18:55Z,msg_00104
+user_039,campaign_02,Remind me about expiring coupons,2025-10-24T13:39:12Z,msg_00105
+user_013,campaign_05,Loved the latest offers!,2025-10-17T17:55:24Z,msg_00106
+user_001,campaign_04,New arrivals caught my eye,2025-10-17T12:22:39Z,msg_00107
+user_005,campaign_06,New arrivals caught my eye,2025-10-02T15:04:43Z,msg_00108
+user_047,campaign_05,Interested in loyalty rewards,2025-10-16T09:41:31Z,msg_00109
+user_021,campaign_07,Interested in loyalty rewards,2025-10-23T11:49:01Z,msg_00110
+user_009,campaign_04,Remind me about expiring coupons,2025-10-14T23:36:57Z,msg_00111
+user_044,campaign_03,Interested in loyalty rewards,2025-10-16T06:59:29Z,msg_00112
+user_036,campaign_01,Interested in loyalty rewards,2025-10-10T12:09:30Z,msg_00113
+user_014,campaign_07,New arrivals caught my eye,2025-10-19T03:37:48Z,msg_00114
+user_029,campaign_08,Flash sale emails are great,2025-10-21T09:26:26Z,msg_00115
+user_031,campaign_03,Interested in travel deals,2025-10-10T08:30:53Z,msg_00116
+user_033,campaign_06,Interested in travel deals,2025-10-07T23:31:17Z,msg_00117
+user_044,campaign_05,Flash sale emails are great,2025-10-06T05:52:58Z,msg_00118
+user_010,campaign_01,Loved the latest offers!,2025-10-08T11:08:31Z,msg_00119
+user_031,campaign_02,Personalize tech recommendations,2025-10-16T16:44:18Z,msg_00120
+user_041,campaign_04,Remind me about expiring coupons,2025-10-20T13:52:15Z,msg_00121
+user_026,campaign_04,Looking for eco-friendly products,2025-09-26T20:20:23Z,msg_00122
+user_049,campaign_02,Remind me about expiring coupons,2025-10-07T04:50:53Z,msg_00123
+user_012,campaign_08,Loved the latest offers!,2025-10-23T15:18:16Z,msg_00124
+user_016,campaign_02,Personalize tech recommendations,2025-10-03T01:13:51Z,msg_00125
+user_030,campaign_06,Personalize tech recommendations,2025-10-26T07:40:17Z,msg_00126
+user_047,campaign_07,Personalize tech recommendations,2025-10-04T07:18:43Z,msg_00127
+user_048,campaign_08,Personalize tech recommendations,2025-10-09T03:51:35Z,msg_00128
+user_049,campaign_04,Interested in loyalty rewards,2025-10-21T21:14:16Z,msg_00129
+user_032,campaign_04,Interested in loyalty rewards,2025-10-17T22:22:06Z,msg_00130
+user_005,campaign_05,Flash sale emails are great,2025-10-09T18:27:02Z,msg_00131
+user_022,campaign_06,Interested in travel deals,2025-10-03T07:05:49Z,msg_00132
+user_010,campaign_04,Remind me about expiring coupons,2025-10-03T23:54:38Z,msg_00133
+user_046,campaign_04,Interested in travel deals,2025-10-16T17:14:09Z,msg_00134
+user_027,campaign_06,Personalize tech recommendations,2025-10-16T18:17:30Z,msg_00135
+user_004,campaign_04,Remind me about expiring coupons,2025-10-15T11:39:11Z,msg_00136
+user_050,campaign_01,Remind me about expiring coupons,2025-10-19T17:36:05Z,msg_00137
+user_001,campaign_06,Interested in loyalty rewards,2025-10-15T12:14:49Z,msg_00138
+user_027,campaign_04,Personalize tech recommendations,2025-10-07T05:31:28Z,msg_00139
+user_018,campaign_07,Personalize tech recommendations,2025-09-27T23:41:45Z,msg_00140
+user_025,campaign_06,Remind me about expiring coupons,2025-10-04T14:10:14Z,msg_00141
+user_030,campaign_03,Loved the latest offers!,2025-10-15T16:56:47Z,msg_00142
+user_038,campaign_01,Interested in travel deals,2025-10-17T09:14:59Z,msg_00143
+user_009,campaign_08,Looking for eco-friendly products,2025-09-29T00:27:56Z,msg_00144
+user_017,campaign_07,New arrivals caught my eye,2025-10-06T20:28:54Z,msg_00145
+user_030,campaign_06,New arrivals caught my eye,2025-10-14T23:35:37Z,msg_00146
+user_018,campaign_07,Interested in loyalty rewards,2025-09-30T13:18:26Z,msg_00147
+user_031,campaign_01,Loved the latest offers!,2025-10-13T13:36:47Z,msg_00148
+user_015,campaign_02,Loved the latest offers!,2025-09-28T02:01:56Z,msg_00149
+user_016,campaign_04,Loved the latest offers!,2025-10-03T23:25:04Z,msg_00150
+user_016,campaign_03,Personalize tech recommendations,2025-10-02T03:09:11Z,msg_00151
+user_037,campaign_04,Personalize tech recommendations,2025-10-09T00:25:30Z,msg_00152
+user_050,campaign_06,Looking for eco-friendly products,2025-10-25T23:47:45Z,msg_00153
+user_039,campaign_02,Looking for eco-friendly products,2025-10-11T16:15:58Z,msg_00154
+user_007,campaign_01,Interested in loyalty rewards,2025-10-24T12:43:53Z,msg_00155
+user_044,campaign_07,Remind me about expiring coupons,2025-10-06T04:57:02Z,msg_00156
+user_005,campaign_04,Interested in travel deals,2025-10-11T05:14:56Z,msg_00157
+user_044,campaign_02,Loved the latest offers!,2025-10-13T10:24:05Z,msg_00158
+user_035,campaign_07,New arrivals caught my eye,2025-09-29T22:13:12Z,msg_00159
+user_033,campaign_06,Loved the latest offers!,2025-10-16T23:17:01Z,msg_00160
+user_032,campaign_02,Remind me about expiring coupons,2025-10-14T03:51:33Z,msg_00161
+user_041,campaign_08,Looking for eco-friendly products,2025-10-17T17:15:32Z,msg_00162
+user_012,campaign_05,Personalize tech recommendations,2025-10-19T03:29:48Z,msg_00163
+user_028,campaign_05,New arrivals caught my eye,2025-10-08T11:54:08Z,msg_00164
+user_006,campaign_05,Personalize tech recommendations,2025-10-08T10:00:04Z,msg_00165
+user_049,campaign_08,Remind me about expiring coupons,2025-10-12T21:48:36Z,msg_00166
+user_002,campaign_08,New arrivals caught my eye,2025-10-05T09:44:18Z,msg_00167
+user_032,campaign_04,New arrivals caught my eye,2025-10-09T02:52:55Z,msg_00168
+user_022,campaign_05,Interested in loyalty rewards,2025-10-23T13:25:23Z,msg_00169
+user_001,campaign_04,Interested in travel deals,2025-10-08T07:04:47Z,msg_00170
+user_047,campaign_07,Personalize tech recommendations,2025-10-23T12:42:24Z,msg_00171
+user_049,campaign_04,Personalize tech recommendations,2025-10-20T09:43:40Z,msg_00172
+user_029,campaign_01,Interested in travel deals,2025-10-10T20:41:20Z,msg_00173
+user_015,campaign_07,Flash sale emails are great,2025-10-11T10:38:08Z,msg_00174
+user_043,campaign_06,Personalize tech recommendations,2025-10-23T10:43:20Z,msg_00175
+user_034,campaign_06,Remind me about expiring coupons,2025-10-23T07:07:43Z,msg_00176
+user_022,campaign_06,Personalize tech recommendations,2025-10-09T17:31:12Z,msg_00177
+user_020,campaign_05,Flash sale emails are great,2025-10-02T10:27:14Z,msg_00178
+user_047,campaign_04,New arrivals caught my eye,2025-10-02T09:10:15Z,msg_00179
+user_048,campaign_03,Flash sale emails are great,2025-10-07T01:59:09Z,msg_00180
+user_048,campaign_08,Interested in loyalty rewards,2025-10-25T04:47:53Z,msg_00181
+user_049,campaign_05,Interested in travel deals,2025-10-06T00:02:35Z,msg_00182
+user_019,campaign_04,New arrivals caught my eye,2025-10-05T06:56:39Z,msg_00183
+user_020,campaign_01,Looking for eco-friendly products,2025-10-09T21:28:32Z,msg_00184
+user_003,campaign_01,Interested in loyalty rewards,2025-10-02T17:00:21Z,msg_00185
+user_041,campaign_08,Interested in travel deals,2025-09-27T04:10:11Z,msg_00186
+user_037,campaign_05,Personalize tech recommendations,2025-10-19T19:37:19Z,msg_00187
+user_029,campaign_06,Looking for eco-friendly products,2025-09-29T01:44:16Z,msg_00188
+user_017,campaign_08,Interested in travel deals,2025-09-29T18:00:37Z,msg_00189
+user_026,campaign_08,Interested in travel deals,2025-10-24T14:09:29Z,msg_00190
+user_041,campaign_01,Looking for eco-friendly products,2025-10-03T19:42:27Z,msg_00191
+user_037,campaign_05,Interested in travel deals,2025-10-08T15:02:35Z,msg_00192
+user_008,campaign_07,Flash sale emails are great,2025-10-21T22:43:15Z,msg_00193
+user_025,campaign_08,Personalize tech recommendations,2025-10-11T00:19:16Z,msg_00194
+user_038,campaign_07,Interested in loyalty rewards,2025-10-24T04:22:51Z,msg_00195
+user_040,campaign_01,Interested in travel deals,2025-10-06T15:58:12Z,msg_00196
+user_041,campaign_04,Interested in loyalty rewards,2025-09-30T12:28:11Z,msg_00197
+user_011,campaign_04,Looking for eco-friendly products,2025-10-23T08:59:50Z,msg_00198
+user_005,campaign_03,Loved the latest offers!,2025-10-16T09:50:13Z,msg_00199
+user_029,campaign_08,Interested in loyalty rewards,2025-09-28T03:54:28Z,msg_00200
+user_015,campaign_05,Interested in loyalty rewards,2025-10-18T14:51:52Z,msg_00201
+user_005,campaign_04,Interested in loyalty rewards,2025-10-25T05:02:03Z,msg_00202
+user_043,campaign_04,Remind me about expiring coupons,2025-10-02T03:36:13Z,msg_00203
+user_035,campaign_04,Looking for eco-friendly products,2025-10-09T11:21:50Z,msg_00204
+user_010,campaign_02,Loved the latest offers!,2025-10-04T15:11:37Z,msg_00205
+user_020,campaign_05,Personalize tech recommendations,2025-10-02T14:45:44Z,msg_00206
+user_030,campaign_05,Remind me about expiring coupons,2025-10-09T19:04:10Z,msg_00207
+user_033,campaign_08,Personalize tech recommendations,2025-09-30T11:36:04Z,msg_00208
+user_039,campaign_01,Remind me about expiring coupons,2025-10-12T05:24:41Z,msg_00209
+user_039,campaign_05,Loved the latest offers!,2025-10-01T00:16:59Z,msg_00210
+user_015,campaign_01,Interested in loyalty rewards,2025-10-24T13:15:22Z,msg_00211
+user_003,campaign_03,Personalize tech recommendations,2025-10-21T18:30:59Z,msg_00212
+user_042,campaign_08,Interested in loyalty rewards,2025-10-05T09:19:47Z,msg_00213
+user_038,campaign_07,Personalize tech recommendations,2025-10-01T00:11:05Z,msg_00214
+user_031,campaign_06,Remind me about expiring coupons,2025-10-12T18:12:43Z,msg_00215
+user_021,campaign_02,Looking for eco-friendly products,2025-10-12T14:07:43Z,msg_00216
+user_027,campaign_08,Interested in loyalty rewards,2025-10-16T00:26:25Z,msg_00217
+user_049,campaign_01,Personalize tech recommendations,2025-09-30T20:28:36Z,msg_00218
+user_021,campaign_05,New arrivals caught my eye,2025-10-02T04:56:17Z,msg_00219
+user_050,campaign_07,Loved the latest offers!,2025-10-22T22:02:49Z,msg_00220
+user_030,campaign_07,Loved the latest offers!,2025-10-05T16:25:45Z,msg_00221
+user_034,campaign_06,Personalize tech recommendations,2025-10-18T00:53:41Z,msg_00222
+user_049,campaign_01,Flash sale emails are great,2025-10-09T13:01:22Z,msg_00223
+user_036,campaign_03,Interested in loyalty rewards,2025-10-17T20:19:19Z,msg_00224
+user_045,campaign_08,Interested in travel deals,2025-09-27T23:30:54Z,msg_00225
+user_041,campaign_04,Looking for eco-friendly products,2025-10-11T15:55:47Z,msg_00226
+user_036,campaign_01,Remind me about expiring coupons,2025-10-01T02:28:34Z,msg_00227
+user_015,campaign_02,Personalize tech recommendations,2025-10-02T06:44:15Z,msg_00228
+user_042,campaign_03,Personalize tech recommendations,2025-10-10T17:55:23Z,msg_00229
+user_033,campaign_05,Remind me about expiring coupons,2025-10-20T00:01:56Z,msg_00230
+user_031,campaign_04,Personalize tech recommendations,2025-10-23T08:09:00Z,msg_00231
+user_010,campaign_07,Flash sale emails are great,2025-10-25T16:12:18Z,msg_00232
+user_033,campaign_03,Interested in travel deals,2025-10-09T23:43:52Z,msg_00233
+user_050,campaign_07,New arrivals caught my eye,2025-10-21T05:26:13Z,msg_00234
+user_018,campaign_01,Interested in loyalty rewards,2025-10-11T01:43:20Z,msg_00235
+user_038,campaign_08,Looking for eco-friendly products,2025-10-18T06:08:42Z,msg_00236
+user_035,campaign_08,New arrivals caught my eye,2025-10-12T17:12:01Z,msg_00237
+user_036,campaign_07,Personalize tech recommendations,2025-10-12T04:46:39Z,msg_00238
+user_013,campaign_04,Remind me about expiring coupons,2025-10-07T21:59:58Z,msg_00239
+user_050,campaign_07,Loved the latest offers!,2025-10-12T00:34:55Z,msg_00240
+user_048,campaign_08,Remind me about expiring coupons,2025-10-15T07:41:38Z,msg_00241
+user_043,campaign_03,Personalize tech recommendations,2025-09-28T09:00:38Z,msg_00242
+user_009,campaign_06,Interested in travel deals,2025-10-17T22:52:25Z,msg_00243
+user_007,campaign_08,Loved the latest offers!,2025-10-03T13:49:58Z,msg_00244
+user_027,campaign_03,Interested in travel deals,2025-10-19T08:52:33Z,msg_00245
+user_017,campaign_06,Remind me about expiring coupons,2025-09-30T11:27:13Z,msg_00246
+user_022,campaign_07,New arrivals caught my eye,2025-10-20T06:22:47Z,msg_00247
+user_035,campaign_01,Interested in travel deals,2025-10-07T23:24:24Z,msg_00248
+user_041,campaign_05,Flash sale emails are great,2025-09-30T23:10:45Z,msg_00249
+user_028,campaign_02,Interested in travel deals,2025-10-18T02:48:09Z,msg_00250
+user_011,campaign_05,Loved the latest offers!,2025-09-28T19:27:47Z,msg_00251
+user_021,campaign_01,Interested in loyalty rewards,2025-10-13T23:31:11Z,msg_00252
+user_024,campaign_07,Looking for eco-friendly products,2025-10-08T10:23:25Z,msg_00253
+user_034,campaign_07,Looking for eco-friendly products,2025-10-04T19:55:30Z,msg_00254
+user_012,campaign_02,Remind me about expiring coupons,2025-10-08T06:28:00Z,msg_00255
+user_032,campaign_03,Flash sale emails are great,2025-10-18T23:09:29Z,msg_00256
+user_041,campaign_05,Personalize tech recommendations,2025-10-08T23:21:24Z,msg_00257
+user_043,campaign_01,Personalize tech recommendations,2025-10-10T12:59:41Z,msg_00258
+user_044,campaign_03,Interested in travel deals,2025-10-18T00:31:55Z,msg_00259
+user_023,campaign_05,Remind me about expiring coupons,2025-10-08T17:15:54Z,msg_00260
+user_030,campaign_05,Flash sale emails are great,2025-10-15T06:04:47Z,msg_00261
+user_031,campaign_02,Flash sale emails are great,2025-10-15T02:12:04Z,msg_00262
+user_037,campaign_06,Interested in loyalty rewards,2025-10-10T21:50:54Z,msg_00263
+user_002,campaign_07,Interested in loyalty rewards,2025-09-26T23:18:52Z,msg_00264
+user_037,campaign_01,Personalize tech recommendations,2025-10-10T11:19:12Z,msg_00265
+user_050,campaign_04,New arrivals caught my eye,2025-10-07T05:02:18Z,msg_00266
+user_041,campaign_04,Interested in loyalty rewards,2025-10-03T05:14:20Z,msg_00267
+user_041,campaign_02,Loved the latest offers!,2025-10-11T13:48:45Z,msg_00268
+user_029,campaign_01,New arrivals caught my eye,2025-10-02T22:59:08Z,msg_00269
+user_006,campaign_05,New arrivals caught my eye,2025-10-16T17:58:33Z,msg_00270
+user_012,campaign_04,Looking for eco-friendly products,2025-10-22T18:20:07Z,msg_00271
+user_024,campaign_05,Looking for eco-friendly products,2025-10-09T01:16:17Z,msg_00272
+user_031,campaign_05,New arrivals caught my eye,2025-10-02T04:03:43Z,msg_00273
+user_030,campaign_02,Looking for eco-friendly products,2025-10-07T12:44:23Z,msg_00274
+user_044,campaign_07,New arrivals caught my eye,2025-09-30T23:05:24Z,msg_00275
+user_026,campaign_01,Interested in loyalty rewards,2025-10-22T15:01:54Z,msg_00276
+user_008,campaign_08,New arrivals caught my eye,2025-10-09T07:19:11Z,msg_00277
+user_038,campaign_07,New arrivals caught my eye,2025-10-01T20:06:43Z,msg_00278
+user_044,campaign_04,Personalize tech recommendations,2025-09-27T19:02:07Z,msg_00279
+user_040,campaign_06,Flash sale emails are great,2025-09-29T15:31:58Z,msg_00280
+user_041,campaign_08,Interested in loyalty rewards,2025-10-16T09:34:43Z,msg_00281
+user_008,campaign_03,Loved the latest offers!,2025-09-28T09:14:05Z,msg_00282
+user_020,campaign_08,Interested in travel deals,2025-10-01T07:06:59Z,msg_00283
+user_016,campaign_03,Remind me about expiring coupons,2025-10-18T14:24:46Z,msg_00284
+user_024,campaign_07,Looking for eco-friendly products,2025-10-16T17:15:18Z,msg_00285
+user_042,campaign_02,Personalize tech recommendations,2025-10-26T11:09:59Z,msg_00286
+user_027,campaign_05,Loved the latest offers!,2025-10-14T13:34:42Z,msg_00287
+user_014,campaign_08,Personalize tech recommendations,2025-10-08T00:58:15Z,msg_00288
+user_024,campaign_02,New arrivals caught my eye,2025-10-23T00:13:42Z,msg_00289
+user_042,campaign_06,Loved the latest offers!,2025-10-15T21:44:45Z,msg_00290
+user_018,campaign_04,Interested in travel deals,2025-10-18T15:39:49Z,msg_00291
+user_006,campaign_04,Loved the latest offers!,2025-09-29T00:48:28Z,msg_00292
+user_022,campaign_04,Looking for eco-friendly products,2025-10-23T23:39:38Z,msg_00293
+user_014,campaign_02,Flash sale emails are great,2025-10-25T01:03:55Z,msg_00294
+user_014,campaign_04,New arrivals caught my eye,2025-10-03T17:47:34Z,msg_00295
+user_039,campaign_01,Interested in loyalty rewards,2025-10-03T14:27:12Z,msg_00296
+user_009,campaign_05,Looking for eco-friendly products,2025-10-01T21:57:11Z,msg_00297
+user_043,campaign_01,Looking for eco-friendly products,2025-09-27T07:11:35Z,msg_00298
+user_023,campaign_04,New arrivals caught my eye,2025-09-27T08:15:57Z,msg_00299
+user_012,campaign_05,Loved the latest offers!,2025-10-02T17:33:50Z,msg_00300

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+sentence-transformers
+torch
+pymongo
+pymilvus==2.4.3
+neo4j
+redis
+loguru
+python-dotenv
+apache-airflow==2.9.3
+sqlite-utils
+numpy
