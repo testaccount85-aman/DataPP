@@ -1,0 +1,19 @@
+conversation_id,user_id,message
+1,u_amy,Hey there! anyone on-call??
+2,u_bob,Working on the onboarding flow rn :)
+3,u_carla,Need help with the new API?? pls advise
+4,u_diego,Metrics look 🔥 this morning
+5,u_ella,typoo in latest deploy?? maybe
+6,u_fiona,I'll sync w/ product tmw morning
+7,u_gary,This dashboard is slooowww today
+8,u_hari,Quick q: where's the vector index doc?
+9,u_ivy,Love the new convo summarizer!!
+10,u_jamal,rememebr to archive old chats lol
+11,u_kai,Any ETA on embeddings refresh??
+12,u_amy,Re: alerts... still getting false positives :(
+13,u_lina,pls check the kafka lag asap
+14,u_mira,Meeting rescheduled to 3pm ok?
+15,u_nate,emoji test 😂😂 just bc
+16,u_olga,Need to revert?? there is a data drift
+17,u_pia,Will publish the postmortem draft tonight
+18,u_quinn,Heads up - caching nodes rebooted
